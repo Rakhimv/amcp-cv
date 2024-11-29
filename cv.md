@@ -1,7 +1,9 @@
 # Raximov Azizbek
 
 ## Contacts
-[Telegram](https://t.me/azjson)
+- [Telegram](https://t.me/azjson)
+- [Codewars](https://www.codewars.com/users/azjson)
+- [Site-Portfolio](https://azicode.netlify.app)
 
 
 ## About Me
@@ -23,5 +25,4 @@ I also tried getting into Arduino but haven’t been able to fully dive into it 
 - **Russian**: Intermediate
 - **English**: Beginner
 
-[Codewars](https://www.codewars.com/users/azjson)
-[Site-Portfolio](https://azicode.netlify.app)
+!['logo'](https://azicode.netlify.app/imgs/az-logo.svg)
