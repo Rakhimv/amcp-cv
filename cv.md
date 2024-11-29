@@ -25,4 +25,4 @@ I also tried getting into Arduino but haven’t been able to fully dive into it 
 - **Russian**: Intermediate
 - **English**: Beginner
 
-!['logo'](https://azicode.netlify.app/imgs/az-logo.svg)
+<img style="width: 100%; margin-top: 30px" src="https://azicode.netlify.app/imgs/az-logo.svg">
